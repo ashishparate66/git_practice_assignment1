@@ -1,6 +1,6 @@
 let str="racecar";
 let bag="";
-for(let i=n-1;i>=0;i++){
+for(let i=n-1;i>=0;i--){
     bag = bag+str[i];
 }
 if(str==bag)
