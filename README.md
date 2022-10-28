@@ -18,7 +18,7 @@ this are the **practice** *assignment*
    - part time
 
 | name | mail | cource |
- | ashish | abc | fw22 |
+| ashish | abc | fw22 |
  
 
 This is our git assignment to solve to problems prime number and palindrome
